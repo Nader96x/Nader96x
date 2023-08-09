@@ -74,23 +74,23 @@
 <br>
 <!-- First Row -->
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Nader96x/e-commerce" title="E-commerce Website Backend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nader96x&repo=e-commerce&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/Nader96x/e-commerce" title="E-commerce Website Backend Node.js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nader96x&repo=e-commerce&theme=react&border_color=61dafb&border_radius=10">
   
-  </a><a align="right" href="https://github.com/Nader96x/E-commerce_Front-end" title="E-commerce Website Frondend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nader96x&repo=E-commerce_Front-end&theme=react&border_color=61dafb&border_radius=10"></a>
+  </a><a align="right" href="https://github.com/Nader96x/E-commerce_Front-end" title="E-commerce Website Frondend React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nader96x&repo=E-commerce_Front-end&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- 2nd Row -->
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Nader96x/e-commerce" title="E-commerce Website Backend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nader96x&repo=e-commerce&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/Nader96x/librarySystem" title="Library System Backend Node.js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nader96x&repo=librarySystem&theme=react&border_color=61dafb&border_radius=10">
   
-  </a><a align="right" href="https://github.com/Nader96x/E-commerce_Front-end" title="E-commerce Website Frondend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nader96x&repo=E-commerce_Front-end&theme=react&border_color=61dafb&border_radius=10"></a>
+  </a><a align="right" href="https://github.com/Nader96x/library-management-system-frontend" title="Library System Frondend Angular.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nader96x&repo=library-management-system-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- Last Row -->
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Nader96x/e-commerce" title="E-commerce Website Backend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nader96x&repo=e-commerce&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/Nader96x/Pharmacy-System" title="Pharmacy-System Laravel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nader96x&repo=Pharmacy-System&theme=react&border_color=61dafb&border_radius=10">
   
-  </a><a align="right" href="https://github.com/Nader96x/E-commerce_Front-end" title="E-commerce Website Frondend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nader96x&repo=E-commerce_Front-end&theme=react&border_color=61dafb&border_radius=10"></a>
+  </a><a align="right" href="https://github.com/Nader96x/Crowd-Funding-console-app" title="Crowd-Funding-console-app Python"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nader96x&repo=Crowd-Funding-console-app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
