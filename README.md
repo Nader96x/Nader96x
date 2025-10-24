@@ -8,10 +8,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Back-End%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p> 
 
-- 🏢 I'm a Back-end Engineer @Cequens
+- 🏢 I'm a Back-end Engineer @Lucidya
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript,Typescript,PHP,Python,Laravel and NodeJS, or anything related to back-end web development.
 
